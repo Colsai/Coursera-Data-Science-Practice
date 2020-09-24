@@ -2,8 +2,11 @@
 ## Write and submit a research proposal in the Markdown format that answers the following questions:
 
 - What is your issue of interest (provide sufficient background information)?
+Covid-19 has dramatically changed the school landscape. In this project, I would like to look at three variables. 
+First, I am interested in 
+
 - Why is this issue important to you and/or to others?
-- What questions do you have in mind and wouyld like to answer?
+- What questions do you have in mind and would like to answer?
 - Where do you get the data to help answer your questions?
 - What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units do you expect to analyze?
 - What variables/measures do you plan to use in your analysis?
